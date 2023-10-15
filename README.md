@@ -8,7 +8,7 @@
 # Launchpad: Profile README
 
 _Say hello to your community._
-
+hello Everyone. my name is Mervyn and i am so glad to be here. I am a beginner in programming so i am still learning python. the goal is to learn the requisites to be a Data analyst and data scientist so i can build a career in ML and AI. i study mechanical engineering in KNUST and will look to learn applied Mechanics.
 
 <!-- 
   <<< Author notes: Start of the course >>> 
